@@ -1,4 +1,7 @@
-＃ General
+Underwater Hockey Glosarry - English / Chinese
+==============================================
+
+#### General
 
 Underwater Hockey, 水下曲棍球, shui3xia4 qu1gun4 qiu2
 Rules， 规则，gui1ze2
@@ -19,9 +22,12 @@ Corner，角落 jiao3luo4
 Wall，墙 qiang
 Player，球员 qiu2yuan2
 Drills，操练，cao1lian4
+Half-time, 半场 ban4chang3
+First half, 上半场 shang4ban4chang3
+Second half, 下半场 xia4ban4chang3
+Overtime, 加时赛 jia1shi2sai3
 
-
-＃ Position ／ 位置 wei4zhi4
+#### Position, 位置 wei4zhi4
 
 Left／Right Wing, 左／右翼，zuo3／you4 yi4
 Forward，前锋， qian2feng1
@@ -32,8 +38,7 @@ Center Forward，中前锋 zhong1qian2feng1
 On／Off Wing，正位／待命 前锋 zheng4wei4／dai4ming4 qian2feng1
 On/Off Back，正位／待命 后卫 zheng4wei4／dai4ming4 hou4wei4
 
-
-＃ Equipment ／ 装备／器具 zhuang1bei4／qi3ju4
+#### Equipment ／ 装备／器具 zhuang1bei4／qi3ju4
 
 Mask，面镜 mian4jing4
 Stick，棍子 gun4zi
@@ -49,7 +54,15 @@ Swimming suit，游泳衣 you2yong3yi1
 Cap，水球帽 shui3qiu2mao4
 Mouth guard，护口／牙套 hu4kou3／ya2tao4
 
-＃ Skills and strategy
+###### About fins 关于脚蹼
+
+Rubber, 树胶／shu4jiao1
+Fiber Glass, 玻璃钢/bo1li1gang1
+Carbon Fiber, 碳纤维/tan4xian1wei3
+Full foot fin, 套式脚蹼／tao4shi4 jiao4pu4
+Open hill fin,
+
+#### Skills and strategy
 
 Flick，发球 fa2qiu3
 Pass，传球 chuan3qiu2
@@ -64,8 +77,10 @@ Wall play，墙边战略 qiang2bian1 zhan4lue4
 Defend，防守 fang2shou3
 Protect，保护 bao3hu4
 Strike，开球 kai1qiu2
+Duck Dive, 鸭式潜水 ya3shi4 qian2shui3
+Frog Dive, 蛙式潜水 wa1shi4 qian2shui3
 
-＃ Rules
+#### Rules
 
 Penalty Shot，点球 dian3qiu2
 Advantage puck，任意球／优势球 ren4yi4qiu2／you1shi4qiu2
@@ -78,3 +93,4 @@ Goal，进球 jin4qiu2
 Obstruction，阻碍 zu2ai4
 Un－sportsman like behaviour，违反体育道德的行为 wei2fan3 ti3yu4 dao4de2 de xing2wei2
 Warning，警告 jing2gao4
+Goal capacity, 球门容量 rong2liang4
