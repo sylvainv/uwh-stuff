@@ -26,6 +26,8 @@ Underwater Hockey Glosarry - English / Chinese
 * First half, 上半场 shang4ban4chang3
 * Second half, 下半场 xia4ban4chang3
 * Overtime, 加时赛 jia1shi2sai3
+* Full time, 全场 chuan3chang3
+* Water Surface， 水面上 shui3mian4shang4
 
 #### Position, 位置 wei4zhi4
 
@@ -52,15 +54,15 @@ Underwater Hockey Glosarry - English / Chinese
 * Swimming trunk，游泳裤 you2yong3ku4
 * Swimming suit，游泳衣 you2yong3yi1
 * Cap，水球帽 shui3qiu2mao4
-* Mouth guard，护口／牙套 hu4kou3／ya2tao4
+* Mouth guard, 护口／牙套 hu4kou3／ya2tao4
 
 ###### About fins 关于脚蹼
 
 * Rubber, 树胶／shu4jiao1
 * Fiber Glass, 玻璃钢/bo1li1gang1
 * Carbon Fiber, 碳纤维/tan4xian1wei3
-* * Full foot fin, 套式脚蹼／tao4shi4 jiao4pu4
-* Open hill fin,
+* Full foot fin, 套式脚蹼／tao4shi4 jiao4pu4
+* Open heel fin, 开式脚蹼 kai1shi4 jiao4pu4
 
 #### Skills and strategy
 
@@ -94,3 +96,4 @@ Underwater Hockey Glosarry - English / Chinese
 * Un－sportsman like behaviour，违反体育道德的行为 wei2fan3 ti3yu4 dao4de2 de xing2wei2
 * Warning，警告 jing2gao4
 * Goal capacity, 球门容量 rong2liang4
+* Golden Goal, 金球 jin1qiu2
