@@ -12,21 +12,21 @@ Underwater Hockey Glosarry - English / Chinese
 * Beginner， 初学者 chu1xue2zhe3
 * Skill，技巧 ji4qiao3
 * Charges，收费 shou1fei4
-* Competition，比赛 bi2sai4
-* Fouls，犯规 fan4gui2
+* Competition，比赛 bi3sai4
+* Fouls，犯规 fan4gui1
 * Team，团队 tuan2dui4
 * Team mate，队友 dui4you3
 * Opponent，对方 dui4fang1
 * Strategy，战略 zhan4lue4
 * Corner，角落 jiao3luo4
-* Wall，墙 qiang
+* Wall，墙 qiang2
 * Player，球员 qiu2yuan2
 * Drills，操练，cao1lian4
 * Half-time, 半场 ban4chang3
 * First half, 上半场 shang4ban4chang3
 * Second half, 下半场 xia4ban4chang3
-* Overtime, 加时赛 jia1shi2sai3
-* Full time, 全场 chuan3chang3
+* Overtime, 加时赛 jia1shi2sai4
+* Full time, 全场 quan2chang3
 * Water Surface， 水面上 shui3mian4shang4
 
 #### Position, 位置 wei4zhi4
@@ -37,8 +37,8 @@ Underwater Hockey Glosarry - English / Chinese
 * Full Back，中后卫，zhong1hou4wei4
 * Half Back，左右后卫 zuo3you4hou4wei4
 * Center Forward，中前锋 zhong1qian2feng1
-* On／Off Wing，正位／待命 前锋 zheng4wei4／dai4ming4 qian2feng1
-* On/Off Back，正位／待命 后卫 zheng4wei4／dai4ming4 hou4wei4
+* On/Off Wing，前锋 正位／待命 qian2feng1 zheng4wei4／dai4ming4
+* On/Off Back，后卫 正位／待命 hou4wei4 zheng4wei4／dai4ming4
 
 #### Equipment ／ 装备／器具 zhuang1bei4／qi3ju4
 
@@ -61,25 +61,25 @@ Underwater Hockey Glosarry - English / Chinese
 * Rubber, 树胶／shu4jiao1
 * Fiber Glass, 玻璃钢/bo1li1gang1
 * Carbon Fiber, 碳纤维/tan4xian1wei3
-* Full foot fin, 套式脚蹼／tao4shi4 jiao4pu4
-* Open heel fin, 开式脚蹼 kai1shi4 jiao4pu4
+* Full foot fin, 套式脚蹼／tao4shi4 jiao3pu3
+* Open heel fin, 开式脚蹼 kai1shi4 jiao3pu3
 
 #### Skills and strategy
 
-* Flick，发球 fa2qiu3
-* Pass，传球 chuan3qiu2
+* Flick，发球 fa1qiu2
+* Pass，传球 chuan2qiu2
 * Boucing，弹跳 tan2tiao4
 * Moving the puck， 带球 dai4qiu2
-* Muscle reflex，肌肉反应 ji1rou4 fan3ying4
+* Muscle reflex，肌肉反射 ji1rou4 fan3she4m
 * Curling，转身 zhuan3shen1
 * Jack knife，弹簧刀 tan2huang2dao1
-* Harass，骚扰 sao1rao3
+* Harass，骚扰／扰乱 sao1rao3/rao3luan4
 * Steal， 抢球 qiang3qiu2
 * Wall play，墙边战略 qiang2bian1 zhan4lue4
 * Defend，防守 fang2shou3
 * Protect，保护 bao3hu4
 * Strike，开球 kai1qiu2
-* Duck Dive, 鸭式潜水 ya3shi4 qian2shui3
+* Duck Dive, 鸭式潜水 ya1shi4 qian2shui3
 * Frog Dive, 蛙式潜水 wa1shi4 qian2shui3
 
 #### Rules
@@ -94,6 +94,6 @@ Underwater Hockey Glosarry - English / Chinese
 * Goal，进球 jin4qiu2
 * Obstruction，阻碍 zu2ai4
 * Un－sportsman like behaviour，违反体育道德的行为 wei2fan3 ti3yu4 dao4de2 de xing2wei2
-* Warning，警告 jing2gao4
-* Goal capacity, 球门容量 rong2liang4
+* Warning，警告 jing3gao4
+* Goal capacity, 球门容量 qiu2men2rong2liang4
 * Golden Goal, 金球 jin1qiu2
