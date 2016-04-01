@@ -97,3 +97,4 @@ Underwater Hockey Glosarry - English / Chinese
 * Warning，警告 jing3gao4
 * Goal capacity, 球门容量 qiu2men2rong2liang4
 * Golden Goal, 金球 jin1qiu2
+* Sin bin, 处罚区 chu3fa2qu1
