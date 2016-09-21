@@ -37,8 +37,8 @@ Underwater Hockey Glosarry - English / Chinese
 * Full Back，中后卫，zhong1hou4wei4
 * Half Back，左右后卫 zuo3you4hou4wei4
 * Center Forward，中前锋 zhong1qian2feng1
-* On/Off Wing，前锋 正位／待命 qian2feng1 zheng4wei4／dai4ming4
-* On/Off Back，后卫 正位／待命 hou4wei4 zheng4wei4／dai4ming4
+* On/Off Wing，正前锋／闲前锋 zheng／xian2 qian2feng1
+* On/Off Back，正后卫／闲后卫 zheng／xian2 qian2feng1
 
 #### Equipment ／ 装备／器具 zhuang1bei4／qi3ju4
 
