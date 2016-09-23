@@ -1,4 +1,4 @@
-Underwater Hockey Glosarry - English / Chinese
+Underwater Hockey Glossary - English / Chinese
 ==============================================
 
 #### General
@@ -8,7 +8,7 @@ Underwater Hockey Glosarry - English / Chinese
 * Referee，裁判，cai2pan4
 * Hand signal，手势 shou3shi4
 * Pool bottom，泳池底 yong3chi2di3
-* Hold one's breathe，憋气 bie1qi4
+* Hold one's breath，憋气 bie1qi4
 * Beginner， 初学者 chu1xue2zhe3
 * Skill，技巧 ji4qiao3
 * Charges，收费 shou1fei4
@@ -37,10 +37,10 @@ Underwater Hockey Glosarry - English / Chinese
 * Full Back，中后卫，zhong1hou4wei4
 * Half Back，左右后卫 zuo3you4hou4wei4
 * Center Forward，中前锋 zhong1qian2feng1
-* On/Off Wing，正前锋／闲前锋 zheng／xian2 qian2feng1
+* On/Off Wing，正前锋／闲前锋 zheng／qian2 qian2feng1
 * On/Off Back，正后卫／闲后卫 zheng／xian2 qian2feng1
 
-#### Equipment ／ 装备／器具 zhuang1bei4／qi3ju4
+#### Equipment ／ 装备／器具 zhuang1bei4／qi4ju4
 
 * Mask，面镜 mian4jing4
 * Stick，棍子 gun4zi
@@ -59,7 +59,7 @@ Underwater Hockey Glosarry - English / Chinese
 ###### About fins 关于脚蹼
 
 * Rubber, 树胶／shu4jiao1
-* Fiber Glass, 玻璃钢/bo1li1gang1
+* Fiber Glass, 玻璃钢/bo1ni1gang1
 * Carbon Fiber, 碳纤维/tan4xian1wei3
 * Full foot fin, 套式脚蹼／tao4shi4 jiao3pu3
 * Open heel fin, 开式脚蹼 kai1shi4 jiao3pu3
@@ -68,7 +68,7 @@ Underwater Hockey Glosarry - English / Chinese
 
 * Flick，发球 fa1qiu2
 * Pass，传球 chuan2qiu2
-* Boucing，弹跳 tan2tiao4
+* Bouncing，弹跳 tan2tiao4
 * Moving the puck， 带球 dai4qiu2
 * Muscle reflex，肌肉反射 ji1rou4 fan3she4m
 * Curling，转身 zhuan3shen1
@@ -92,8 +92,8 @@ Underwater Hockey Glosarry - English / Chinese
 * Out of bounds，出界 chu1jie4
 * Illegal substitution, 非法替补 fei1fa3ti4bu3
 * Goal，进球 jin4qiu2
-* Obstruction，阻碍 zu2ai4
-* Un－sportsman like behaviour，违反体育道德的行为 wei2fan3 ti3yu4 dao4de2 de xing2wei2
+* Obstruction，阻碍 zu3ai4
+* Un-sportsman like behaviour，违反体育道德的行为 wei2fan3 ti3yu4 dao4de2 de xing2wei2
 * Warning，警告 jing3gao4
 * Goal capacity, 球门容量 qiu2men2rong2liang4
 * Golden Goal, 金球 jin1qiu2
