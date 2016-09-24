@@ -61,7 +61,7 @@ Underwater Hockey Glossary - English / Chinese
 ###### About fins 关于脚蹼
 
 * Rubber, 树胶／shu4jiao1
-* Fiber Glass, 玻璃钢/bo1ni1gang1
+* Fiber Glass, 玻璃钢/bo1li2gang1
 * Carbon Fiber, 碳纤维/tan4xian1wei3
 * Full foot fin, 套式脚蹼／tao4shi4 jiao3pu3
 * Open heel fin, 开式脚蹼 kai1shi4 jiao3pu3
